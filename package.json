@@ -1,11 +1,11 @@
 {
-  "name": "parcel-project-template",
+  "name": "ice-cream-team-project",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Mozzhakov.github.io/ice-cream-project",
+  "homepage": "https://ivansinabdeev.github.io/ice-cream-team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-project/"
+    "build": "parcel build src/*.html --public-url /ice-cream-team-project/"
   },
   "repository": {
     "type": "git",
